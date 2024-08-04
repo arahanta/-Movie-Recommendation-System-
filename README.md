@@ -20,8 +20,8 @@ Additionally, download the required datasets
 
 The datasets used in this project are:
 
-    tmdb_5000_movies.csv: Contains movie details.
-    tmdb_5000_credits.csv: Contains movie credits information.
+   - tmdb_5000_movies.csv: Contains movie details.
+   - tmdb_5000_credits.csv: Contains movie credits information.
 ## Streamlit App
 Interactive User Interface:
         Display a title and a dropdown menu for movie selection.
@@ -35,3 +35,4 @@ To run the Movie Recommendation System, execute the script with Streamlit:
 ```bash
 streamlit run your_script.py
 ```
+Select a movie from the dropdown and click the 'Recommend' button to see personalized movie recommendations.
